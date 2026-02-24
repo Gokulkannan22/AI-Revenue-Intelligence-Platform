@@ -18,4 +18,4 @@ Recall: 83%
 Simulated 30% churn reduction → ₹XX revenue protected
 
 ## Live Demo
-[Click Here]([your_streamlit_link](https://ai-revenue-intelligence-platform-ns5s29f9c6u866qjvzjsp5.streamlit.app/))
+(https://ai-revenue-intelligence-platform-ns5s29f9c6u866qjvzjsp5.streamlit.app/)
